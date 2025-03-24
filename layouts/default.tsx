@@ -20,11 +20,11 @@ export default function DefaultLayout({
         <Link
           isExternal
           className="flex items-center gap-1 text-current"
-          href="https://www.heroui.com"
-          title="heroui.com homepage"
+          href="https://www.instagram.com/ibsa.nutricion/"
+          title="IBSA Instagram"
         >
-          <span className="text-default-600">Powered by</span>
-          <p className="text-primary">HeroUI</p>
+          <span className="text-default-600">Copyright</span>
+          <p className="text-blue-600">IBSA</p>
         </Link>
       </footer>
     </div>
